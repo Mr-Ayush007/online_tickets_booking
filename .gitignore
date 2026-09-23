@@ -1,0 +1,5 @@
+crick_env/
+pycache__/
+backend/__pycache__/
+backend/models.py
+
